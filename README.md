@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center"> I'm a passionate FullStack developer from Nigeria</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uche-inyama&label=Profile%20views&color=0e75b6&style=flat" alt="uche-inyama" /> </p>
+
 - 🔭 I’m currently working on **Rails-react project**
 
 - 🌱 I’m currently learning **Docker**
