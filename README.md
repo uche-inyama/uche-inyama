@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uche-inyama&show_icons=true&locale=en&layout=compact" alt="uche-inyama" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uche-inyama&show_icons=true&locale=en" alt="uche-inyama" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=uche-inyama&show_icons=true&locale=en" alt="uche-inyama" /></p>
 
