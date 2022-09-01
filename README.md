@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center"> I'm a passionate Full Stack developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **Rails-React project**
+- 🔭 I’m currently working on **Rails-React project**.
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker**.
 
-- 👯 I’m looking to collaborate on any **full Stack project**
+- 👯 I’m looking to collaborate on any **full Stack project**.
 
-- 💬 Ask me about **React, Ruby OOP, Ruby on Rails, Docker**
+- 💬 Ask me about **React, Ruby OOP, Ruby on Rails, Docker**.
 
-- 📫 How to reach me: **uchenry.iny@gmail.com**
+- 📫 How to reach me: **uchenry.iny@gmail.com**.
 
 
 <h3 align="left">Connect with me:</h3>
