@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker**.
 
-- 👯 I’m looking to collaborate on any **full Stack project**.
+- 👯 I’m looking to collaborate on any **Full Stack project**.
 
 - 💬 Ask me about **React, Ruby OOP, Ruby on Rails, Docker**.
 
